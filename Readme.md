@@ -1,6 +1,6 @@
 PHP Serial
 ==========
-
+hello
 PHP Serial was written at a time where I did not know any other language than
 PHP and I started to get seriously bored with its abilities.
 
